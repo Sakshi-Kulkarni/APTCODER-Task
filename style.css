@@ -1,0 +1,18 @@
+body {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+canvas {
+    background: black;
+    border: 1px solid  chartreuse;
+    margin-top: 100px;
+}
+ h1{
+    color:  chartreuse;
+    align-items: center;
+    position:  absolute;
+    margin-bottom: 491.44px;
+    margin-top: 0px;
+  }
